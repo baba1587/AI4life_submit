@@ -1,0 +1,5 @@
+*.tar.gz
+
+# folders
+test
+resources

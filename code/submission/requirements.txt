@@ -1,0 +1,5 @@
+numpy==1.26.4
+SimpleITK==2.3.1
+tifffile==2024.2.12
+# torch==2.2.0
+# scikit-image==0.22.0
