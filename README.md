@@ -6,6 +6,10 @@
   </a>
 </p>
 
+## Notices
+
+https://ai4life-mdc24.grand-challenge.org/evaluation/final-phase-structured-noise-2/leaderboard/
+
 ## Submission method
 
 - n2f
