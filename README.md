@@ -7,6 +7,7 @@
 </p>
 
 ## Notices
+<img width="1156" alt="Screenshot 2024-08-16 at 12 35 05" src="https://github.com/user-attachments/assets/f3a41ce5-500b-45f8-ab3a-1d5a9a18685f">
 
 https://ai4life-mdc24.grand-challenge.org/evaluation/final-phase-structured-noise-2/leaderboard/
 
